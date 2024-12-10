@@ -1,1 +1,2 @@
 we are given two array that represent the arrival and depoture time of trains the task is to find the minimum number of platfrom requred and no train need to wait.
+A toy factory is paking toys into boxes each box can contain a toy (represented by an integer value) or be empty (represent by 0) write a function to move all the empty boxes to the end of the empty boxes to the end of the array while mainting the order of the toys and also return the count to empty boxer.
